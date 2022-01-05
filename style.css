@@ -1,6 +1,7 @@
 
 .section{
     display: flex;
+    margin-bottom: 100px;
 }
 .mission{
     width: 100%;
@@ -36,4 +37,60 @@ margin-left: 20%;
 }
 p{
     text-align:justify ;
+}
+
+.section2{
+ display: flex;
+  margin-top: 120px;
+}
+.text-size{
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: -100px;
+    
+}
+#pictures{
+    width: 60%;
+}
+.Mission{
+    border: 1px solid rgba(128, 128, 128, 0.178);
+    width: 30%;
+    margin-left: 140px;
+    margin-top: 10px;
+   padding: 30px 40px;
+    height:280px;
+    background-color: rgba(134, 81, 108, 0.089);
+    border-radius: 20px;
+}
+.Mission:hover{
+    background-color:rgba(134, 81, 108, 0.404) ;
+}
+.vission{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
+    
+    border: 1px solid rgba(128, 128, 128, 0.226);
+  height:280px;
+  padding: 30px 40px;
+  background-color: rgba(145, 116, 79, 0.212);
+  border-radius: 20px;
+}
+.vission:hover{
+    background-color: rgba(145, 116, 79, 0.404);
+}
+.goals{
+    width: 30%;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 140px;
+    border: 1px solid rgba(128, 128, 128, 0.198);
+    padding: 30px 40px;
+    height:280px;
+    background-color: rgba(110, 143, 77, 0.233);
+    border-radius: 20px;
+}
+.goals:hover{
+    background-color:rgba(110, 143, 77, 0.39) ;
 }
