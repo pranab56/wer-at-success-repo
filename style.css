@@ -38,9 +38,7 @@ margin-left: 20%;
 .button:hover{
     background-color: tomato;
 }
-p{
-   text-align: justify;
-}
+
 
 .section2{
  display: flex;
@@ -198,7 +196,10 @@ p{
     width: 100%;
     margin-top: 160px;
 }
-.end h1,p{
+.end h1{
+    text-align: center;
+}
+.end p{
     text-align: center;
 }
 .button4{
