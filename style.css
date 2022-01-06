@@ -167,6 +167,28 @@ p{
 .button3:hover{
     background-color: tomato;
 }
+.section5{
+    display: flex;
+    margin-top: 150px;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 30%;
+}
+.img{
+    margin-left: 120px;
+    margin-right: 70px;
+}
+.benifits{
+    margin-left: 10px;
+    margin-right: 80px;
+    margin-top: 30px;
+    padding: 20px;
+    text-align: justify;
+}
+.benifits h1{
+    font-size: 40px;
+}
 .end{
     background-color: black;
     color: white;
@@ -178,4 +200,15 @@ p{
 }
 .end h1,p{
     text-align: center;
+}
+.button4{
+    text-decoration: none;
+    background-color:rgb(105, 255, 118) ;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.button:hover{
+    background-color: tomato;
 }
