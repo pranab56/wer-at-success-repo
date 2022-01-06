@@ -94,3 +94,38 @@ p{
 .goals:hover{
     background-color:rgba(110, 143, 77, 0.39) ;
 }
+.section3{
+    display: flex;
+    margin-top: 150px;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 25%;
+}
+.coding img{
+  width: 100%;
+ 
+}
+.coding{
+    margin-left: 140px;
+}
+
+.helpfull{
+    margin-right: 10%;
+    margin-left: 40px;
+    
+}
+.helpfull h1{
+    font-size: 40px;
+}
+.button2{
+    text-decoration: none;
+    background-color:rgb(105, 255, 118) ;
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.button2:hover{
+    background-color: tomato;
+}
